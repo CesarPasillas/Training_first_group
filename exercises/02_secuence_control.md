@@ -13,7 +13,7 @@ example:
 
 ## Exercises
 
-### Exercises java Operands
+### Exercises Secuence Control
 **01 Calcule the discont of the ticket based on the age**
 Create an algorithm that calculates the price of the ticket base on the below table:
 
