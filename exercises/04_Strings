@@ -1,0 +1,32 @@
+## Indications
+
+### Please follow the below instructions: 
+Create a pacakge that starts with com then your name and finally the exercises operands
+example: 
+  **com.[your_name].exercises.secuence_control**
+
+The classes should have the prefix 01 , 02, 03, etc. followed by the "_" underscore In the class name, we know that is not recommend but is only to identify the exercises.
+example:
+  #### 01_ClassOne
+  #### 02_SumTwoNums
+  #### 03_Conversions
+
+## Exercises
+
+**01 Request an String and remove all the white spaces**
+Create an algorithm that reads a String and removes all the white spaces.
+
+**02 From lower to Capital**
+Create an algorithm that reads a String and transform into a Capital letters.
+
+**03 Inver the Capital and lower letters**
+Create an algorithm that reads a String and transform changes from capital to lower and viceversa.
+
+Example:
+If the user introduces "HelLo" the output must be "hELlO"
+
+**05 palindrom**
+Create an algorithm that reads a String and indicates if is a palindrom.
+
+Example: Oso, ala, Anula la luna, anita lava la tina
+
