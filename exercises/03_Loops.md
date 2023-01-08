@@ -99,3 +99,18 @@ Create an algorithm that request 6 string and after thatm th eprogrma must print
 **Challenge**
 You need create three algorthms each one with the for-loop, while, and do while.
 
+**08 Improved the Java mathematical Operation**
+Create a menu in the console with the next options:
+  * 1 - (+) Sum two nums
+  * 2 - (-) Substraction of two nums
+  * 3 - (*) Multiplication of two nums
+  * 4 - (/) Division of two nums 
+  * 5 - (%) Module of two nums
+
+You need to request to the user the number of the option to perform the operation that is displayed, then you need to request the two numbers and return the result of that operation.
+
+The program will end until the user introduces in any moment the values of "q", ":q", "exit" and "Quit", also this words will not be case sensitive.
+##### Constrain: you need to handle the exception of the DIvision of 0.
+
+**Challenge**
+You need create three algorthms each one with the for-loop, while, and do while.
