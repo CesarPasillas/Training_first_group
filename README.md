@@ -14,7 +14,7 @@ example:
   #### 02_SumTwoNums
   #### 03_Conversions
   
-### Excersices
+### Excercises
 
 - [01 Java Operands](https://github.com/CesarPasillas/Training_first_group/blob/main/exercises/01_java_operands.md)
 - [02 Secuence Control](https://github.com/CesarPasillas/Training_first_group/blob/main/exercises/02_secuence_control.md)
