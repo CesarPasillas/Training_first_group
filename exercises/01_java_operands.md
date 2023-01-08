@@ -25,8 +25,7 @@ Create a menu in the console with the next options:
 You need to request to the user the number of the option to perform the operation that is displayed, then you need to request the two numbers and return the result of that operation.
 
 ##### Constrain: you need to handle the exception of the DIvision of 0.
-  
-##### Challenge
+ 
 
 
 **02 Convert Kilograms to pounds, ounces, grams**
