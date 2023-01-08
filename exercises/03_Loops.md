@@ -13,7 +13,6 @@ example:
 
 ## Exercises
 
-### Exercises java Operands
 ### Exercises Loops
 **01 THe piramid**
 Create an algorithm that Prints an piramid in the console using the loops, the user will be able to intorduce the height to create the piramid.
